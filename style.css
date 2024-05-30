@@ -1,0 +1,289 @@
+.wrapper {
+	background:url(img/bg.jpg);
+	background-size:cover;
+	min-height:100vh;
+	padding-bottom: 1px;
+}
+	body {
+margin:0;
+	}
+.menu {
+margin:0;
+padding:0;
+list-style:none;
+font-family:Verdana;
+}
+.menu li {
+display:inline-block;
+}
+.menu a {
+display:block;
+color:white;
+text-decoration:none;
+padding:20px;
+font-size:50px;
+}
+.menu a:hover {
+	color:green;
+}
+.menu a.active {
+	color:yellow;
+}
+.header {
+	display:flex;
+	align-items:center;
+	gap:150px;
+}
+/* ТОВАРИ */
+.tovars{
+text-align:center;
+background: rgb(102,215,13);
+background: linear-gradient(0deg, rgba(102,215,13,1) 0%, rgba(253,187,45,1) 100%); 
+}
+.tovars ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+.tovars-title {
+	color:green;
+font-family:Verdana;
+}
+.tovars-subtitle{
+	font-style:italic;
+	color:red;
+}
+.robot:hover {
+		transform:rotate(1turn);
+	}
+	.robot{
+		transition:all 0.5s;
+	}
+	/* menu */
+	.main{
+	width:1000px;
+	margin:0auto;
+	margin:0 auto;
+	padding-top:100px;
+	}
+	.title{
+	color:yellow;
+	font-family:Verdana;
+	font-size:40px;
+	}
+	.subtitle{
+	color:yellow;
+	font-family:Verdana;
+	font-size:40px;
+	}
+	.main-img{
+	float:right;
+	}
+	.button {
+	width:140px;
+	height:60px;
+	font-family:Verdana;
+	font-size:18px;border-radius:6px;
+	/* background-color:yellow; */
+	border:4px double yellow;
+	}
+	.button a {
+	text-decoration:none;
+	color:yellow;
+	}
+	.button:hover {
+	border:4px double yellow;
+	background-color:transparent;
+	}
+	
+	.logo {
+		width:150px;
+	}
+	.AMOGYA{
+	color: yellow;
+	}
+	
+	.AMOBA{
+	color:orange;
+	font-size:25px;
+	font-family:Verdana;
+	padding-left:5px;
+	}
+	.amobas{
+	color:green;
+	font-size:25px;
+	font-family:Verdana;
+	padding-left:5px;
+	}
+	.roboth{
+		transition:all 0.5s;
+		width:555px;
+	}
+	
+	.roboth{
+		transition:all 0.5s;
+	}
+	.roboth:hover {
+		transform:rotate(1turn);
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
